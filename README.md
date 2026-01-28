@@ -1,5 +1,8 @@
-# nigeria-igr-analysis-powerbi
-Power BI analysis of Internally Generated Revenue (IGR) across Nigerian states (2019–2023)
+# State-Level Analysis of Internally Generated Revenue (IGR) in Nigeria (2019–2023)
+
+![Dashboard Preview](dashboard_preview.png)
+*Interactive Power BI dashboard showing state-level IGR distribution with year-based filtering.*
+
 
 ## Project overview
 This project analyzes Internally Generated Revenue (IGR) across the 36 states of Nigeria from 2019 to 2023.
@@ -21,13 +24,13 @@ This project addresses the following:
   - Build an interactive Power BI dashboard for insight exploration
  
     ## Data Discription
-    - source:State level Internally Generated Revenue (IGR) data
+    - Source:State level Internally Generated Revenue (IGR) data
     - Format:Excel workbook (multiple sheets by year)
     - Gradularity:State level, annual revenue figures
     - Coverage:36 Nigerian states
     - Time Period:2019–2023
    
-      ##Tools
+      ## Tools
       - power BI-data modeling and visualization
       - Power Query-data cleaning and transformation
       - Microsoft Excel-initial data storage and review
