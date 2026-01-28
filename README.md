@@ -72,6 +72,16 @@ This project addresses the following:
                   ## Conclusion
                   This project demonstrates the use of Power BI to clean, model, and analyze multi-year financial data for actionable insights. By examining Internally Generated Revenue (IGR) across Nigerian states from 2019 to 2023, the analysis highlights revenue disparities, top performing states, and temporal trends that can support fiscal planning and policy evaluation. The project reflects practical data analytics skills relevant to real world decision making.
 
+## Deliverables
+- 📊 **Power BI Dashboard (.pbix):**  
+  [Download the Power BI file](nigeria_igr_analysis.pbix)
+
+- 📁 **Dataset (Excel):**  
+  [Download the dataset](nigeria_igr_dataset.xlsx)
+
+- 🖼 **Dashboard Preview:**  
+  [View dashboard screenshot](dashboard_preview.png)
+
                   
             
           
