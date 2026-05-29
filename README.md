@@ -68,6 +68,17 @@ This project addresses the following:
                 - Population size and inflation effects were not accounted for
                 - Analysis is based solely on reported IGR figures
                 - External economic, political, and policy factors were not included
+                  ## Recommendations
+                  -  States with lower IGR performance should explore strategies used by top-performing states to improve revenue generation and economic activities
+                    - Government agencies can use data-driven monitoring systems to track revenue trends and support better fiscal planning.
+                    - Future analysis should incorporate population size, inflation rates, and GDP contribution to provide deeper insight into state revenue performance.
+                    -  Additional socio-economic indicators such as unemployment rate, industrial activity, and urbanization levels could help explain revenue disparities across states.
+                    -  Policymakers should consider strengthening internally generated revenue channels to reduce dependence on federal allocations.
+                    -  Expanding the dashboard with predictive analytics and forecasting models could help anticipate future revenue trends and support long-term planning.
+
+
+
+
                
                   ## Conclusion
                   This project demonstrates the use of Power BI to clean, model, and analyze multi-year financial data for actionable insights. By examining Internally Generated Revenue (IGR) across Nigerian states from 2019 to 2023, the analysis highlights revenue disparities, top performing states, and temporal trends that can support fiscal planning and policy evaluation. The project reflects practical data analytics skills relevant to real world decision making.
